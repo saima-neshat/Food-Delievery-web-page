@@ -1,0 +1,24 @@
+/* Navigation */
+#navbar{
+    flex-direction: column;
+}
+
+/* Home Section */
+#home{
+    height: 300px;
+    padding: 3px 50px;
+}
+#home::before{
+    height: 420px;
+}
+
+/* Service Section */
+#services{
+    flex-direction: column;
+}
+
+/* Client Section */
+
+/* Contact SEction */
+
+/* Footer */
